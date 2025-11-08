@@ -1,3 +1,6 @@
+/*Enrique Mena Hernández
+programa 1a*/
+
 #include <stdio.h>
 int main ()
 {
